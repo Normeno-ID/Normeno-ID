@@ -11,6 +11,7 @@ Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><b
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="40" /> 
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="40" />
   <img src="https://skillicons.dev/icons?i=js" alt="JS" width="30" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="PY" width="30" height="40" />
   </p>
 
 # 📊 GitHub Stats :
