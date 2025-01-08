@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hello.webp" alt="Hello" style="width: 100%; height: 150px; object-fit: cover; margin-top: 50px;">
+  <img src="https://media1.tenor.com/m/j4an2z65F_UAAAAd/softdrinks-happy.gif" alt="Hello" style="width: 100%; height: 150px; object-fit: cover; margin-top: 50px;">
 </p>
 
 # 💫 About Me:
