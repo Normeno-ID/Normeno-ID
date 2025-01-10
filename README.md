@@ -26,4 +26,4 @@ Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><b
 ![](https://github-contributor-stats.vercel.app/api?username=Normeno-ID&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ### Discord :
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1237548153012617257)](https://discord.com/users/:1237548153012617257)
+[![](https://lanyard.cnrad.dev/api/1237548153012617257)](https://discord.com/users/1237548153012617257)
