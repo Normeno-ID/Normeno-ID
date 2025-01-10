@@ -26,4 +26,5 @@ Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><b
 ![](https://github-contributor-stats.vercel.app/api?username=Normeno-ID&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ### 🎤 Spotify :
-![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gksl3jsfxybpyia6h6f2qoeoyy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gksl3jsfxybpyia6h6f2qoeoyy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)
+!![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gksl3jsfxybpyia6h6f2qoeoyy&redirect=true)
+!![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gksl3jsfxybpyia6h6f2qoeoyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false).
