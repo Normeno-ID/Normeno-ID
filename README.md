@@ -25,6 +25,5 @@ Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><b
 ### 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=Normeno-ID&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-### 🎤 Spotify :
-!![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gksl3jsfxybpyia6h6f2qoeoyy&redirect=true)
-!![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gksl3jsfxybpyia6h6f2qoeoyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false).
+### Discord :
+[![Discord Presence](https://lanyard.cnrad.dev/api/:1237548153012617257)](https://discord.com/users/:1237548153012617257)
