@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me :
-Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><br>I have a hobby in drawing and an interest in coding,<br>If asked why I am interested in coding?<br>There are many reasons why I chose to learn coding.<br><br>1. Wider career opportunities<br>2. Improve problem-solving skills<br>3. High income potential<br>4. Have an interest in programming, etc.<br>5. I'm sure no one cares about this introduction🤣<br><br>
+Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><br>I have a hobby in drawing and an interest in coding.<br><br>
 
 
 # 💻 Tech Stack :
