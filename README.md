@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://media1.tenor.com/m/j4an2z65F_UAAAAd/softdrinks-happy.gif" alt="Hello" style="width: 100%; height: 150px; object-fit: cover; margin-top: 50px;">
-</p>
 
 # 💫 About Me :
 Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><br>I have a hobby in drawing and an interest in coding.<br><br>
