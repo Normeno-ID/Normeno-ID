@@ -1,3 +1,4 @@
+![](https://github.com/Normeno-ID/Normeno.gif)
 
 # 💫 About Me :
 Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><br>I have a hobby in drawing and an interest in coding.<br><br>
