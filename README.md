@@ -1,8 +1,10 @@
-![](https://github.com/Normeno-ID/standard.gif)
+![](standard.gif)
 
 # 👨‍💻 About Me
 Hello! 👋 Let me introduce myself, I'm **Normeno**!
-I usually go by **Ilham**. I have a passion for drawing and interest in programming. 
+I usually go by **Ilham**. 
+
+I have a passion for drawing and interest in programming. 
 
 ## 🎨 Skills & Technologies
 <p align="center">
