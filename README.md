@@ -1,4 +1,6 @@
-![](standard.gif)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c8efed83-1f31-4b23-9de1-e2b1ee4a94ca">
+</p>
 
 # 👨‍💻 About Me
 Hello! 👋 Let me introduce myself, I'm **Normeno**!
