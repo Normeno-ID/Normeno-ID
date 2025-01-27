@@ -1,28 +1,42 @@
-![](https://github.com/Normeno-ID/Normeno.gif)
+![](https://github.com/Normeno-ID/standard.gif)
 
-# 💫 About Me :
-Hi! 👋.<br>Let me introduce myself, I am Normeno!<br>Often Called Ilham.<br><br>I have a hobby in drawing and an interest in coding.<br><br>
+# 👨‍💻 About Me
+Hello! 👋 Let me introduce myself, I'm **Normeno**!
+I usually go by **Ilham**. I have a passion for drawing and interest in programming. 
 
+## 🎨 Skills & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,react,vite,bootstrap" alt="Tech Stack" />
+</p>
 
-# 💻 Tech Stack :
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="40" /> 
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="40" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JS" width="30" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="30" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="40" />
-  </p>
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Normeno-ID&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Normeno-ID&theme=tokyonight&hide_border=true" width="400" />
+</p>
 
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Normeno-ID&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Normeno-ID&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Normeno-ID&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normeno-ID&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="350" />
+</p>
 
-### ✍️ Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 💭 Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-### 🔝 Top Contributed Repo :
-![](https://github-contributor-stats.vercel.app/api?username=Normeno-ID&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+## 🏆 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Normeno-ID&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
-### Discord :
-[![](https://lanyard.cnrad.dev/api/1237548153012617257)](https://discord.com/users/1237548153012617257)
+## 🎮 Discord
+<p align="center">
+  <a href="https://discord.com/users/1237548153012617257">
+    <img src="https://lanyard.cnrad.dev/api/1237548153012617257" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>Let's connect and collaborate! ✨</i>
+</p>
