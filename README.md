@@ -1,12 +1,24 @@
+
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c8efed83-1f31-4b23-9de1-e2b1ee4a94ca">
 </p>
 
 # 👨‍💻 About Me
-Hello! 👋 Let me introduce myself, I'm **Normeno**!
-I usually go by **Ilham**. 
-
-I have a passion for drawing and interest in programming. 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f6cfb8bf-a39b-4737-9872-2b5570fa0f3d" alt="Hello" style="object-fit: cover; width: 200px; border-radius: 10px;"/>
+    </td>
+    <td>
+      Hello! 👋 Let me introduce myself, I'm Normeno! I usually go by Ilham. <br>
+      I have a passion for drawing and interest in programming.
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f380cf51-4801-4ac8-97d7-55be061f7335" alt="Hello" style="object-fit: cover; width: 200px; border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 ## 🎨 Skills & Technologies
 <p align="center">
@@ -31,6 +43,11 @@ I have a passion for drawing and interest in programming.
 ## 🏆 Top Contributions
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Normeno-ID&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+## 🎶 Spotify Status
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gksl3jsfxybpyia6h6f2qoeoyy&unique=true" />
 </p>
 
 ## 🎮 Discord
