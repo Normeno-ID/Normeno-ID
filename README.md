@@ -59,6 +59,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Normeno-ID&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="45%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.vercel.app/?user=Normeno-ID&theme=tokyonight&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" width="45%" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
