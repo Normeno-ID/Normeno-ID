@@ -57,7 +57,7 @@ export default function AboutSection() {
               <div className="absolute -inset-1 bg-gradient-to-r from-red-600 to-red-800 rounded-lg blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
               <div className="relative">
                 <Image 
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Normeno-ID&theme=radical&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakLabel=ff3333"
+                  src="https://streak-stats.vercel.app/?user=Normeno-ID&theme=radical&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakLabel=ff3333"
                   alt="GitHub Streak" 
                   width={570}
                   height={120}
