@@ -1,0 +1,258 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-shadow-glow {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.text-glow {
+    color: #ff3333;
+    text-shadow: 0 0 5px rgba(255, 51, 51, 0.3);
+    transition: all 0.3s ease;
+}
+
+.text-glow:hover {
+    color: #ff4444;
+    text-shadow: 0 0 8px rgba(255, 51, 51, 0.5);
+}
+
+@keyframes subtle-pulse-glow {
+    0%, 100% {
+        box-shadow: 0 0 15px rgba(255, 51, 51, 0.2);
+        border-color: rgba(255, 51, 51, 0.4);
+    }
+    50% {
+        box-shadow: 0 0 20px rgba(255, 51, 51, 0.3);
+        border-color: rgba(255, 51, 51, 0.6);
+    }
+}
+
+.profile-glow {
+    animation: subtle-pulse-glow 4s ease-in-out infinite;
+    border: 2px solid rgba(255, 51, 51, 0.4);
+}
+
+/* Wire Animation Styles */
+.skill-wire-right::after,
+.skill-wire-left::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #dc2626, transparent);
+  animation: wireFlowRight 3s ease-in-out infinite;
+  transform-origin: left center;
+  opacity: 0;
+}
+
+.skill-wire-right::after {
+  right: -80px;
+  width: 80px;
+}
+
+.skill-wire-left::after {
+  left: -80px;
+  width: 80px;
+  animation-name: wireFlowLeft;
+}
+
+/* Glow effect for wires */
+.skill-wire-right::before,
+.skill-wire-left::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  height: 6px;
+  filter: blur(4px);
+  background: linear-gradient(90deg, transparent, #dc2626, transparent);
+  animation: wireGlowRight 3s ease-in-out infinite;
+  transform-origin: left center;
+  opacity: 0;
+}
+
+.skill-wire-right::before {
+  right: -80px;
+  width: 80px;
+}
+
+.skill-wire-left::before {
+  left: -80px;
+  width: 80px;
+  animation-name: wireGlowLeft;
+}
+
+/* Hover effects */
+.group:hover .skill-wire-right::after,
+.group:hover .skill-wire-right::before,
+.group:hover .skill-wire-left::after,
+.group:hover .skill-wire-left::before {
+  opacity: 1;
+}
+
+@keyframes wireFlowRight {
+  0% {
+    opacity: 0;
+    transform: scaleX(0);
+    background: linear-gradient(90deg, 
+      #dc2626 0%,
+      transparent 50%,
+      transparent 100%
+    );
+  }
+  50% {
+    opacity: 1;
+    transform: scaleX(1);
+    background: linear-gradient(90deg, 
+      transparent 0%,
+      #dc2626 50%,
+      transparent 100%
+    );
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(0);
+    transform-origin: right center;
+    background: linear-gradient(90deg, 
+      transparent 0%,
+      transparent 50%,
+      #dc2626 100%
+    );
+  }
+}
+
+@keyframes wireFlowLeft {
+  0% {
+    opacity: 0;
+    transform: scaleX(0);
+    background: linear-gradient(-90deg, 
+      #dc2626 0%,
+      transparent 50%,
+      transparent 100%
+    );
+  }
+  50% {
+    opacity: 1;
+    transform: scaleX(1);
+    background: linear-gradient(-90deg, 
+      transparent 0%,
+      #dc2626 50%,
+      transparent 100%
+    );
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(0);
+    transform-origin: left center;
+    background: linear-gradient(-90deg, 
+      transparent 0%,
+      transparent 50%,
+      #dc2626 100%
+    );
+  }
+}
+
+@keyframes wireGlowRight {
+  0% {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+  50% {
+    opacity: 0.3;
+    transform: scaleX(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(0);
+    transform-origin: right center;
+  }
+}
+
+@keyframes wireGlowLeft {
+  0% {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+  50% {
+    opacity: 0.3;
+    transform: scaleX(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(0);
+    transform-origin: left center;
+  }
+}
+
+.skill-path {
+  animation: pathPulse 3s ease-in-out infinite;
+}
+
+@keyframes pathPulse {
+  0% {
+    opacity: 0.2;
+    stroke-width: 1;
+  }
+  50% {
+    opacity: 0.6;
+    stroke-width: 2;
+  }
+  100% {
+    opacity: 0.2;
+    stroke-width: 1;
+  }
+}
+
+/* Adjust the grid gap to match the SVG coordinates */
+.skills-grid {
+  gap: 8rem;
+}
+
+@keyframes navItemEnter {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes socialHighlight {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.highlight-social {
+  animation: socialHighlight 0.5s ease-in-out;
+}
+
+.social-card {
+  transition: all 0.3s ease;
+}
+
+.social-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 3s linear infinite;
+} 
