@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c8efed83-1f31-4b23-9de1-e2b1ee4a94ca" alt="Banner">
+  <img src="" alt="">
 </div>
 
 <h1 align="center">Hi there, I'm Normeno! 👋</h1>
@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/f6cfb8bf-a39b-4737-9872-2b5570fa0f3d" alt="Profile Image 1" width="200px" style="border-radius: 10px;"/>
+      <img src="" alt="" width="200px" style="border-radius: 10px;"/>
     </td>
     <td>
       <p>
@@ -20,7 +20,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/f380cf51-4801-4ac8-97d7-55be061f7335" alt="Profile Image 2" width="200px" style="border-radius: 10px;"/>
+      <img src="" alt="" width="200px" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
@@ -59,7 +59,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Normeno-ID&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Normeno-ID&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
