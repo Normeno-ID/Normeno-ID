@@ -1,22 +1,11 @@
 <div align="center">
-  <img src="/banner.gif" alt="Normeno Banner" width="50%">
+  <img src="/banner.gif" alt="Normeno Banner" width="75%">
 </div>
 
 <h1 align="center">Hi there, I'm Normeno! 👋</h1>
 
 ## 🚀 About Me
-
-<table>
-  <tr>
-    <td>
-      <p>
-       - 💻 A passionate developer who loves to create and innovate
-       - 🎨 Art enthusiast with a keen interest in drawing
-      - 🌱 Currently focusing on web development
-      </p>
-    </td>
-  </tr>
-</table>
+ 1+1 = Hello World!
 
 ## 🛠️ Tech Stack
 
@@ -51,18 +40,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Normeno-ID&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="45%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.vercel.app/?user=Normeno-ID&theme=tokyonight&hide_border=true&background=000000&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" width="45%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Normeno-ID&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=ff3333&text_color=ffffff&icon_color=ff3333" width="45%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.vercel.app/?user=Normeno-ID&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="45%" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normeno-ID&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normeno-ID&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=ff3333&text_color=ffffff" width="40%" alt="Top Languages"/>
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Contribution
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Normeno-ID&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Normeno-ID&theme=redical&bg_color=0d1117&color=ffffff&line=ff3333&point=ffffff&area=true&hide_border=true" alt="Graph Stats"/>
 </div>
 
 ## 🎵 Currently Vibing To
