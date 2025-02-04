@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="">
+  <img src="/banner.gif" alt="Normeno Banner" width="50%">
 </div>
 
 <h1 align="center">Hi there, I'm Normeno! 👋</h1>
@@ -9,18 +9,11 @@
 <table>
   <tr>
     <td>
-      <img src="" alt="" width="200px" style="border-radius: 10px;"/>
-    </td>
-    <td>
       <p>
-        I'm a passionate developer who loves to create and innovate! 💻
-        - 🎨 Art enthusiast with a keen interest in drawing
-        - 💡 Tech explorer always eager to learn new technologies
-        - 🌱 Currently focusing on web development and UI/UX design
+       - 💻 A passionate developer who loves to create and innovate
+       - 🎨 Art enthusiast with a keen interest in drawing
+      - 🌱 Currently focusing on web development
       </p>
-    </td>
-    <td>
-      <img src="" alt="" width="200px" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
@@ -59,7 +52,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Normeno-ID&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="45%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.vercel.app/?user=Normeno-ID&theme=tokyonight&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" width="45%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.vercel.app/?user=Normeno-ID&theme=tokyonight&hide_border=true&background=000000&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" width="45%" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
