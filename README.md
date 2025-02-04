@@ -5,7 +5,9 @@
 <h1 align="center">Hi there, I'm Normeno! 👋</h1>
 
 ## 🚀 About Me
- 1+1 = Hello World!
+<div align="center">
+ <p>1+1 = Hello World!</p>
+</div>
 
 ## 🛠️ Tech Stack
 
