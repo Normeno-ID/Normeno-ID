@@ -23,19 +23,19 @@ const waifus = [
     image: '/Waifu/Hayase-Yuuka.jpg',
   },
   {
-   name: 'Yuna Amagami',
-   anime: 'Amagami-san Chi no Enmusubi',
-   image: '/Waifu/Yuna-Amagami.jpg',
+    name: 'Yuna Amagami',
+    anime: 'Amagami-san Chi no Enmusubi',
+    image: '/Waifu/Yuna-Amagami.jpg',
   },
   {
     name: 'Ikuyo Kita',
     anime: 'Bocchi the Rock!',
-    image: '/Waifu/Ikuyo-Kita.jpg',
+    image: 'https://i.pinimg.com/736x/c1/bb/42/c1bb42015c372cfd4e5adbef30a977ef.jpg',
   },
   {
     name: 'Tomori Nao',
     anime: 'Charlotte',
-    image: '/Waifu/Tomori-Nao.jpg',
+    image: 'https://i.pinimg.com/736x/f0/a0/47/f0a047ab03e798e2ce6486d9ea475102.jpg',
   },
   {
     name: 'Yamada Anna',
