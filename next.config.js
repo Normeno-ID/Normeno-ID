@@ -34,7 +34,13 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'github.com',
       },
+      {
+        protocol: 'https',
+        hostname: 'i.pinimg.com',
+        pathname: '/**',
+      },
     ],
+    domains: ['i.pinimg.com'],
   },
 };
 
