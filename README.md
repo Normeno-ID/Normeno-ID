@@ -26,7 +26,7 @@
 
   <h3>Backend</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </p>
 
   <h3>Tools & Technologies</h3>
